@@ -40,13 +40,10 @@
     }
     .work_items > * {
         height: 40px;
-        padding: 14px;
+        padding: 5px;
         width: calc(100%/2 - 10px);
         margin-left: 10px;
         margin-bottom: 10px;
-    }
-    .work_item img {
-        height: 100%;
     }
     .work_text {
         font-size: 14px;

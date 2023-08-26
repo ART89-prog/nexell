@@ -8,7 +8,6 @@ $(() => {
 			watchSlidesVisibility: true,
 			slideActiveClass: 'active',
 			slideVisibleClass: 'visible',
-			spaceBetween: 0,
 			slidesPerView: 1,
 			pagination: {
 				el: '.swiper-pagination',
@@ -31,7 +30,6 @@ $(() => {
 			watchSlidesVisibility: true,
 			slideActiveClass: 'active',
 			slideVisibleClass: 'visible',
-			spaceBetween: 0,
 			slidesPerView: 2,
 			pagination: {
 				el: '.swiper-pagination',

@@ -18,7 +18,7 @@
         min-height: -webkit-fill-available;
         min-height:         fill-available;
         margin: 0;
-        padding: 83px 22px 46px;        
+        padding: 26px 22px 46px;        
         transition: transform .3s linear;
         transform: translateX(-100%);
         background: #fff;
@@ -90,10 +90,9 @@
     }
     .menu_open header .close_btn {
         display: block;
-        top: 12px;
-        right: 20px;
         z-index: 999;
-        position: absolute;
+        margin-left: auto;
+        margin-bottom: 30px;
     }
 
 
