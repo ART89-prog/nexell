@@ -814,6 +814,12 @@ header .menu .item a:hover {
 .duties_item-icon {
     display: block;
     margin-right: 23px;
+    width: 100px;
+    height: 100px;
+}
+.duties_item-icon img {
+    width: 100%;
+    height: 100%;
 }
 .duties_item-title {
     color: #000;
@@ -858,6 +864,12 @@ header .menu .item a:hover {
 .advantages_item-icon {
     display: block;
     margin-right: 23px;
+    width: 100px;
+    height: 100px;
+}
+.advantages_item-icon img {
+    width: 100%;
+    height: 100%;
 }
 .advantages_item-title {
     color: #000;
