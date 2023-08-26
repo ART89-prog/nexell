@@ -8,6 +8,7 @@ $(() => {
 			watchSlidesVisibility: true,
 			slideActiveClass: 'active',
 			slideVisibleClass: 'visible',
+			spaceBetween: 20,
 			slidesPerView: 1,
 			pagination: {
 				el: '.swiper-pagination',
@@ -42,8 +43,7 @@ $(() => {
 			},
 			breakpoints: {
 				320: {
-				  slidesPerView: 1,
-				  spaceBetween: 0
+				  slidesPerView: 1
 				},
 				767: {
 				  slidesPerView: 1,
