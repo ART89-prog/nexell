@@ -30,12 +30,6 @@
     .technic .swiper-container {
         padding-bottom: 70px;
     }
-    .technic .swiper-button-prev {
-        left: calc(50% - 100px);
-    }
-    .technic .swiper-pagination {
-        transform: translateX(-36%);
-    }
     .duties_items > * {
         width: calc(100%/2 - 20px);
     }
